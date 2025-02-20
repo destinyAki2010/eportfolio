@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+
+h1 {
+
+color: #64676e;
+}
+
+body {
+	background-color: #b3ffe2;
+	max-width: 800px;
+	margin: auto;
+}
+
+th, td {
+	border: 2px solid;
+	border-collapse: collapse;
+	padding: 8px;
+	text-align: center;
+	border-color: pink;
+}
+
+tr:hover {
+	background-color: pink;
+}
+
+table {
+	width: 45%;
+	display: inline-block;
+	margin: 5px;
+}
+
+.header {
+	padding: 30px;
+	text-align: center;
+	background: white;
+	font-size: 30px;
+	font-family: "Playwrite GB S", cursive;
+	font-weight: 400;
+	font-style: normal;
+	color: blue;
+}
+	
+p {
+  color:#f542dd;
+  font-family: "Playwrite GB S", cursive;
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+}
+/* visited link */
+a:visited {
+  color:#64676e;
+}
+
+	
